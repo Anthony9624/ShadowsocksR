@@ -1,0 +1,75 @@
+{
+	"configs" : [
+		{
+			"remarks" : "bwg1",
+			"id" : "B682B6C536F40CFADFA93DA93E4F0A9E",
+			"server" : "67.216.197.90",
+			"server_port" : 8080,
+			"server_udp_port" : 0,
+			"password" : "Wings_Of_Saya0xfff",
+			"method" : "none",
+			"protocol" : "auth_chain_a",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "YndnMQ",
+			"group" : "vpn",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "vultr-jp-0",
+			"id" : "23F54C9C099AC6BAE0B7733E650A96DA",
+			"server" : "198.13.32.23",
+			"server_port" : 16403,
+			"server_udp_port" : 0,
+			"password" : "CPrYmchcfeD63HIwgGDxbo03eDowu47s",
+			"method" : "none",
+			"protocol" : "auth_chain_a",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "dnVsdHItanAtMA",
+			"group" : "vultr",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 1,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "Owb5wxj3R2pz88fnfU88",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 1,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
